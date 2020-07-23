@@ -10,13 +10,13 @@
 + Outputs of the script are searched images and their original links
 + <font color=yellow>The script automatically skips some images with incorrect link address due to several reasons</font>
 
-### Required modules
+## Required modules
 + numpy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install numpy```
 + ssl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install ssl```
 + urllib3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install urllib3```
 + requests &nbsp;&nbsp;&nbsp;&nbsp;``` pip install requests```
 
-### Usage
+## Usage
 + <b>Run </b>
 ```
 gis.py 롯데타워 8
@@ -26,15 +26,15 @@ gis.py 롯데타워 8
 gis.py --help
 ```
 
-### Output
+## Outputs
 * <font size=4>_Searched images in keyword named folder_</font>
-![](assets/README-93a6ef27.png)
+![](assets/README-169ae535.png)
 
 * <font size=4>_Links  of the searched images text file_</font>
 ![](assets/README-95c20b9e.png)
 
-### Version history
+## Version history
 + Version 0.1: the script release (2020.07.23)
 
-### _Contact for bug reports_
+## _Contact for bug reports_
 _Uksu, Choi (qtwing@naver.com)_
