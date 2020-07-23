@@ -5,12 +5,14 @@
 
 ## Description
 + Imaging searching python script using Google Engine
-+ The script only supports python3
 + The script is very simple to use and useful for many purpose
 + Outputs of the script are searched images and their original links
-+ <font color=yellow>The script automatically skips some images with incorrect link address due to several reasons</font>
++ The script needs <b>_python3_</b>
++ The script supports <b>_Chrome_, _Safari_</b>
++ <font color=yellow>The script automatically skips some images with incorrect link address as below due to several reasons</font>
+![](assets/README-012347ba.png)
 
-## Required modules
+## Required Modules
 + numpy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install numpy```
 + ssl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install ssl```
 + urllib3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install urllib3```
@@ -34,8 +36,9 @@ gisd.py --help
 * <font size=4>_Searched images in keyword named folder_</font>
 ![](assets/README-d40800d4.png)
 
-* <font size=4>_Links  of the searched images text file_</font>
+* <font size=4>_Links  of the searched images_</font>
 ![](assets/README-95c20b9e.png)
+
 
 ## Version history
 + Version 0.1: the script release (2020.07.23)
