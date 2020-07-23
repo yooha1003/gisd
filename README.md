@@ -36,7 +36,5 @@ gis.py --help
 ### Version history
 + Version 0.1: the script release (2020.07.23)
 
-
-<br>
-### <font color=yellow>_Contact for bug reports_</font>
-<b>_Uksu, Choi (qtwing@naver.com)_</b>
+### _Contact for bug reports_
+_Uksu, Choi (qtwing@naver.com)_
