@@ -19,7 +19,7 @@
 + requests &nbsp;&nbsp;&nbsp;&nbsp;``` pip install requests```
 
 ## Usage
-+ <b>Run </b>
++ <b>Run in Terminal</b>
 ```
 gisd.py 롯데타워_편의점_지하철 8
 gisd.py 롯데타워 8
