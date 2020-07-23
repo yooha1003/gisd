@@ -30,7 +30,7 @@ gisd.py --help
 ```
 
 ## Tip
-+ If you want to search multiple keywords, use '_' between keywords
++ If you want to search images with multiple keywords, just use '_' between keywords
 
 ## Outputs
 * <font size=4>_Searched images in keyword named folder_</font>
