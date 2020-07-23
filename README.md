@@ -19,16 +19,20 @@
 ## Usage
 + <b>Run </b>
 ```
-gis.py 롯데타워 8
+gisd.py 롯데타워_편의점_지하철 8
+gisd.py 롯데타워 8
 ```
 + <b>Help</b>
 ```
-gis.py --help
+gisd.py --help
 ```
+
+## Tip
++ If you want to search multiple keywords, use '_' between keywords
 
 ## Outputs
 * <font size=4>_Searched images in keyword named folder_</font>
-![](assets/README-169ae535.png)
+![](assets/README-d40800d4.png)
 
 * <font size=4>_Links  of the searched images text file_</font>
 ![](assets/README-95c20b9e.png)
