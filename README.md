@@ -17,8 +17,8 @@
 + ssl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install ssl```
 + urllib3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install urllib3```
 + requests &nbsp;&nbsp;&nbsp;&nbsp;``` pip install requests```
-+ tqdm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```pip install tqdm```
-+ selenium &nbsp;&nbsp;&nbsp;&nbsp;```pip install selenium```
++ tqdm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install tqdm```
++ selenium &nbsp;&nbsp;&nbsp;&nbsp;``` pip install selenium```
 
 ## Usage
 + <b>Run in Terminal</b>
