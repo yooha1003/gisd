@@ -4,10 +4,11 @@ Google image searching and downloading script (Ver 0.1)
 """
 
 # import modules
+import sys
+import os
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import argparse
-import os
 from tqdm import tqdm
 import time
 import urllib.request
