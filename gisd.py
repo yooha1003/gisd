@@ -7,7 +7,6 @@ Google image searching and downloading script (Ver 0.1)
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import argparse
-import sys
 import os
 from tqdm import tqdm
 import time
