@@ -16,7 +16,6 @@ import urllib.request
 import requests
 from urllib.parse import quote
 import array as arr
-from bs4 import BeautifulSoup
 
 
 class gisd:
