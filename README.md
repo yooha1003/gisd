@@ -49,4 +49,3 @@ gisd.py --help
 
 ## _Contact for Feedback and Bug Reports_
 _Uksu, Choi (qtwing@naver.com)_
-# gisd
