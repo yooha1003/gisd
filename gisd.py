@@ -10,7 +10,6 @@ import argparse
 import os
 from tqdm import tqdm
 import time
-import ssl
 import urllib.request
 import requests
 from urllib.parse import quote
