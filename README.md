@@ -13,7 +13,7 @@
 ![](assets/README-b414761f.png)
 
 ## Required Modules
-+ argparse &nbsp;&nbsp;&nbsp;&nbsp;``` pip install pip install argparse```
++ argparse &nbsp;&nbsp;&nbsp;&nbsp;``` pip install argparse```
 + ssl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install ssl```
 + urllib3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install urllib3```
 + requests &nbsp;&nbsp;&nbsp;&nbsp;``` pip install requests```
