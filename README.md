@@ -35,7 +35,7 @@ gisd.py --help
 
 ## Tips
 + If you want to search images with multiple keywords, just use <b> '_' </b> between keywords
-+ If you want to separated image group with multiple keywords, just use <b> ',' </b> between keywords. This option will give you multiple grouped results.
++ If you want to separate defferent image groups with multiple keywords, just use <b> ',' </b> between keywords. This option will give you multiple grouped results.
 
 ## Outputs
 * <font size=4>_Searched images in keyword named folder_</font>
