@@ -10,13 +10,13 @@
 + The script needs <b>_python3_</b> and <b>_Chrome_, _Safari_</b>
 + <font color=yellow>The script searches images from <b> _all scrolled pages_ </b></font>
 + _Progressbar_ is supporting in this version
-![](assets/README-b414761f.png)
+![](assets/README-b414761f.png).
 
-<br>
+
 ## Required
 ### &nbsp;&nbsp;&nbsp;_ChromeDriver_
 &nbsp;&nbsp;&nbsp;&nbsp;You need to install [ChromeDriver](https://chromedriver.chromium.org/) to use this script.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;The installation instruction can be found [here](http://jonathansoma.com/lede/foundations-2018/classes/selenium/selenium-windows-install/).
+&nbsp;&nbsp;&nbsp;&nbsp;The installation instruction can be found [here](http://jonathansoma.com/lede/foundations-2018/classes/selenium/selenium-windows-install/)
 
 ### &nbsp;&nbsp;&nbsp;_Modules_
 + sys  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install sys```
@@ -27,7 +27,6 @@
 + tqdm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install tqdm```
 + selenium &nbsp;&nbsp;&nbsp;&nbsp;``` pip install selenium```
 
-<br>
 ## Usage
 + <b>Run in Terminal</b>
 ```
@@ -40,12 +39,10 @@ gisd.py Lottetower,편의점,서울 8
 gisd.py --help
 ```
 
-<br>
 ## Tips
 + If you want to search images with multiple keywords, just use <b> '_' </b> between keywords
 + If you want to separate different image groups with multiple keywords, just use <b> ',' </b> between keywords. This option will give you multiple grouped results.
 
-<br>
 ## Outputs
 * <font size=4>_Searched images in keyword named folder_</font>
 ![](assets/README-d40800d4.png)
@@ -53,10 +50,9 @@ gisd.py --help
 * <font size=4>_Links  of the searched images_</font>
 ![](assets/README-95c20b9e.png)
 
-<br>
+
 ## Version history
 + Version 0.1: the script release (2020.07.23)
 
-<br>
 ## _Contact for Feedback and Bug Reports_
 _Uksu, Choi (qtwing@naver.com)_
