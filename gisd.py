@@ -99,8 +99,13 @@ class gisd:
 
         try:
             # return respData
-            ##### browser extraction part ####
-            browser = webdriver.Chrome()
+            #### browser extraction part ####
+            chrome_opt = webdriver.ChromeOptions()
+            chrome_opt.add_argument('--disable-gpu')
+            pathx = ""
+            browser = webdriver.Chrome(executable_path=pathx,chrome_options=chrome_opt)
+            ActionChains(browser).key_down(Keys.CONTROL).click().key_up(Keys.CONTROL).perform()
+            # browser = webdriver.Chrome(r"C:\Users\sung\Downloads\chromedriver_win32\chromedriver.exe")
             browser.get(url)
             time.sleep(1)
 
@@ -119,7 +124,9 @@ class gisd:
                 for i in range(10):
                     element.send_keys(Keys.PAGE_DOWN)
                     time.sleep(0.3)  # bot id protection
-            browser.find_element_by_xpath('//*[@id="islmp"]/div/div/div/div/div[5]/input').click()
+            ## click more
+            elementx = browser.find_element_by_xpath('//*[@id="islmp"]/div/div/div/div/div[5]/input')
+            browser.execute_script("arguments[0].click();", elementx)
             # scroll down2
             for i in range(30):
                 element.send_keys(Keys.PAGE_DOWN)
