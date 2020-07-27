@@ -13,7 +13,7 @@
 ![](assets/README-b414761f.png).
 
 
-## Required
+## Install requirements
 ### &nbsp;&nbsp;&nbsp;_ChromeDriver_
 &nbsp;&nbsp;&nbsp;&nbsp;You need to install [ChromeDriver](https://chromedriver.chromium.org/) to use this script.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;The installation instruction can be found [here](http://jonathansoma.com/lede/foundations-2018/classes/selenium/selenium-windows-install/).
