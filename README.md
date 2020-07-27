@@ -19,13 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;The installation instruction can be found [here](http://jonathansoma.com/lede/foundations-2018/classes/selenium/selenium-windows-install/).
 
 ### &nbsp;&nbsp;&nbsp;_Modules_
-+ sys  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install sys```
-+ os &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install os```
-+ argparse &nbsp;&nbsp;&nbsp;&nbsp;``` pip install argparse```
-+ urllib3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install urllib3```
-+ requests &nbsp;&nbsp;&nbsp;&nbsp;``` pip install requests```
-+ tqdm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` pip install tqdm```
-+ selenium &nbsp;&nbsp;&nbsp;&nbsp;``` pip install selenium```
+&nbsp;&nbsp;&nbsp;&nbsp;```pip setup.py install```
 
 ## Usage
 + <b>Run in Terminal</b>
