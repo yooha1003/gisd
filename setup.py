@@ -8,5 +8,5 @@ setup(
     author_email='qtwing@naver.com',
     description='Google image searching and downloading script',
     packages=find_packages(),
-    install_requires=['selenium', 'argparse', 'tqdm', 'time', 'requests', 'urllib', 'array'],
+    install_requires=['selenium', 'argparse', 'tqdm', 'time', 'requests', 'urllib'],
 )
