@@ -142,11 +142,11 @@ class gisd:
                     element.send_keys(Keys.PAGE_DOWN)
                     time.sleep(0.3)  # bot id protectio
                     print("End of the searching pages")
-                    time.sleep(0.5)
-                    respData = browser.page_source #page source
-                    # close the browser
-                    browser.close()
-                    return respData
+                    time.sleep(0.3)
+                 respData = browser.page_source #page source
+                 # close the browser
+                 browser.close()
+             return respData
 
         except Exception as e:
             print(e)
